@@ -3,7 +3,6 @@ I'm a software engineer focused on building scalable web applications and intuit
 
 How to reach me anubhavagrahari53@gmail.com
 
-Connect with me:
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
